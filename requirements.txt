@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+langchain
+langchain-community
+ollama
+snowflake-snowpark-python[pandas]
+matplotlib
+seaborn
+plotly
+snowflake
